@@ -10,7 +10,7 @@ const char *WIFI_PASS     = "iot@1234";
 
 // ====== SERVER OTA ======
 // Đảm bảo ESP32 & máy tính cùng mạng LAN
-const char *OTA_SERVER    = "http://192.168.100.29:8000/";
+const char *OTA_SERVER    = "http://192.168.100.14:8000/";
 const char *VERSION_FILE  = "version.json";
 
 // ====== PHIÊN BẢN HIỆN TẠI ======

@@ -1,4 +1,4 @@
 {
     "version": 5.0,
-    "firmware_url": "http://192.168.100.29:8000/firmware_v5.0.bin"
+    "firmware_url": "http://192.168.100.14:8000/firmware_v5.0.bin"
 }
